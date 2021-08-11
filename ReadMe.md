@@ -37,21 +37,23 @@ install.packages("openxlsx")
 
 ------------------------------------------------------------------------------
 You could also run the codes in RGUI or use following path base on source excutation easyly. 
+
 setwd("D:/DRASTIC_R/Origin")
 source("2- DRASTIC_Index.R")
 DRASTIC_Index("DRASTIC")
-If used RUGI please wait until the process sucessfuly done and you see (your analysis done sucssefully) message at the end of execution process.
 
-At the end of running process the result in opened excel and shape files are shown for glance evaluate.
+- If used RUGI please wait until the process sucessfuly done and you see (your analysis done sucssefully) message at the end of execution process.
+
+* At the end the result an excel file and shape would opened for glance survey.
 
 -----------------------------------------------------------------------------
 * NOTICE: 
 
-All Excell cells (data) contain missing value will be deleted.
+- All cells (missing data) contain missing value will be deleted.
 
-your R version will be updated to end version during the process automatically, and And this is mandatory.
+- Your R version will be updated to end version during the process automatically, and And this is mandatory.
 
-** If analysis has been not done in any way, certainly your entries has speling error, so check all of entries and run the procces again.
+- If analysis has been not done in any way, certainly your entries has speling error, so check all of entries and run the procces again.
 
 -------------------------------------------------------------------------------
 This was a project in the Environmental Engineering PhD cours. It was done in 2021/4/21 by encouragement of Professor Ramin Nabizadeh.
