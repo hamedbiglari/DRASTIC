@@ -62,7 +62,7 @@ Thank you for all the prayers, love and support for my requests.
 
 I so appreciate each one! Feeling very blessed.
 
-# Create and share by:
+# Design and share by:
 
 Biglari. H
 
