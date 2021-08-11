@@ -1,4 +1,4 @@
-DRASTIC: A free package for DRASTIC Index Calculation in R
+# DRASTIC: A free package for DRASTIC Index calculating in R
 
 Background:
 There is no absolute method for assessing the vulnerability of groundwater, but several methods for estimating the sensitivity of aquifers to pollution have been developed (Murat V., Martel R., Michaud Y., Therrien R., (2000)). 
@@ -17,8 +17,7 @@ ID = Dc×Dp + Rc×Rp + Ac× Ap + Sc×Sp + Tc×Tp + Ic× Ip + Cc×Cp
 * Refer to shape 2 in repository attachment
 
 -------------------------------------------------------------
-Dear Client
-The process can be broken into five major steps that include:
+# The process can be broken into four major steps that include:
 
 1- first installing the bellow packages (before running the codes)
 install.packages("installr")
@@ -26,39 +25,33 @@ install.packages("readxl")
 install.packages("tidyverse")
 install.packages("tibble")
 install.packages("openxlsx")
-
 2- Create a folder with name of "DRASTIC_R" (D:\DRASTIC_R\)and Put it (DRASTIC_R) in your D:\ on your computer. if you has not derive D:\ you must chage the R directory to another palce in the code (change the setwd()).
-
 3- Create a subfolder with name "Origin" (D:\DRASTIC_R\Origin)and put the content of our repository Origin folder in it then open the Origin subfolder and entry your data in DRASTIC.xls file (An excel file)(you shoud be carefull do not change the titles and fill all entries data periciously with correct spelling as a available data samples.
-
 4-  Create a subfolder with name "Results" (D:\DRASTIC R\Result), after running the codes you could see the result and shapes in this folder.
 
-
-# You could also run the codes in RGUI or use following path base on source excutation easyly. 
-
+------------------------------------------------------------------------------
+You could also run the codes in RGUI or use following path base on source excutation easyly. 
 setwd("D:/DRASTIC_R/Origin")
 source("2- DRASTIC_Index.R")
 DRASTIC_Index("DRASTIC")
-
 If used RUGI please wait until the process sucessfuly done and you see (your analysis done sucssefully) message at the end of execution process. 
 At the end of runing process the result in opened excel and shape files are shown for glance evaluate.
 
-
-*** NOTICE: 
+-----------------------------------------------------------------------------
+* NOTICE: 
 All Excell cells (data) contain missing value will be deleted.
 your R version will be updated to end version during the process automatically, and And this is mandatory.
+** If analysis has been not done in any way, certainly your entries has speling error, so check all of entries and run the procces again.
 
-*** If analysis has been not done in any way, certainly your entries has speling error, so check all of entries and run the procces again.
-
-------------------------------------------
-This was a project in the Environmental Engineering PhD cours. It was done in 2021/4 with the encouragement of Dr. Ramin Nabizadeh.
-Thanks to all the encouragement and dear companions
+-------------------------------------------------------------------------------
+This was a project in the Environmental Engineering PhD cours. It was done in 2021/4/21 with the encouragement of Professor Ramin Nabizadeh.
+Thank you for all the prayers, love and support for my requests.
+I so appreciate each one! Feeling very blessed.
 
 Hamed Biglari
 PhD in environmental health Engineering, Tehran, Iran
-
 WhatAppNumber: +98 936 080 5530
-hamed.biglari@gmu.ac.ir
-hamed.biglari@gmail.com
+Email: hamed.biglari@gmu.ac.ir
+Email: hamed.biglari@gmail.com
 
-yours faithfully
+Yours faithfully
