@@ -22,7 +22,7 @@ ID = Dc×Dp + Rc×Rp + Ac× Ap + Sc×Sp + Tc×Tp + Ic× Ip + Cc×Cp
 -------------------------------------------------------------
 # The process can be broken into four major steps that include:
 
-1- first installing the bellow packages (before running the codes)
+1- At first install the following packages (before running the codes)
 install.packages("installr")
 install.packages("readxl")
 install.packages("tidyverse")
