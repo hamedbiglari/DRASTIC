@@ -44,13 +44,13 @@ your R version will be updated to end version during the process automatically, 
 ** If analysis has been not done in any way, certainly your entries has speling error, so check all of entries and run the procces again.
 
 -------------------------------------------------------------------------------
-This was a project in the Environmental Engineering PhD cours. It was done in 2021/4/21 with the encouragement of Professor Ramin Nabizadeh.
+This was a project in the Environmental Engineering PhD cours. It was done in 2021/4/21 by encouragement of Professor Ramin Nabizadeh.
 Thank you for all the prayers, love and support for my requests.
 I so appreciate each one! Feeling very blessed.
 
 Hamed Biglari
 
-PhD in environmental health Engineering, Tehran, Iran
+PhD in Environmental Health Engineering, Tehran, Iran
 
 WhatAppNumber: +98 936 080 5530
 
