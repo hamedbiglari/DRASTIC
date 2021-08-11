@@ -48,10 +48,14 @@ This was a project in the Environmental Engineering PhD cours. It was done in 20
 Thank you for all the prayers, love and support for my requests.
 I so appreciate each one! Feeling very blessed.
 
-Hamed Biglari,
-PhD in environmental health Engineering, Tehran, Iran,
-WhatAppNumber: +98 936 080 5530,
-Email: hamed.biglari@gmu.ac.ir,
-Email: hamed.biglari@gmail.com,
+Hamed Biglari
+
+PhD in environmental health Engineering, Tehran, Iran
+
+WhatAppNumber: +98 936 080 5530
+
+Email: hamed.biglari@gmu.ac.ir
+
+Email: hamed.biglari@gmail.com
 
 Yours faithfully
