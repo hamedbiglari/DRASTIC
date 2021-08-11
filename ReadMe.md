@@ -57,15 +57,12 @@ DRASTIC_Index("DRASTIC")
 
 -------------------------------------------------------------------------------
 This was a project in the Environmental Engineering PhD cours. It was done in 2021/4/21 by encouragement of Professor Ramin Nabizadeh.
-
 Thank you for all the prayers, love and support for my requests.
-
 I so appreciate each one! Feeling very blessed.
 
 # Create and share by:
 
 Biglari. H
-
 PhD in Environmental Health Engineering
 
 WhatsApp: +98 936 080 5530
