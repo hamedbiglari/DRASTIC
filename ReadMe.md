@@ -68,8 +68,8 @@ Biglari. H
 
 PhD in Environmental Health Engineering
 
-WhatAppNumber: +98 936 080 5530
+WhatsApp: +98 936 080 5530
 
-Email: hamed.biglari@gmu.ac.ir or hamed.biglari@gmail.com
+Emails Address: hamed.biglari@gmu.ac.ir or hamed.biglari@gmail.com
 
-Yours faithfully
+Yours Faithfully
