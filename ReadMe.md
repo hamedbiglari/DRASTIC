@@ -62,14 +62,14 @@ Thank you for all the prayers, love and support for my requests.
 
 I so appreciate each one! Feeling very blessed.
 
-# Hamed Biglari
+# Create and share by:
 
-PhD in Environmental Health Engineering, Tehran, Iran
+Biglari. H
+
+PhD in Environmental Health Engineering
 
 WhatAppNumber: +98 936 080 5530
 
-Email: hamed.biglari@gmu.ac.ir
-
-Email: hamed.biglari@gmail.com
+Email: hamed.biglari@gmu.ac.ir or hamed.biglari@gmail.com
 
 Yours faithfully
