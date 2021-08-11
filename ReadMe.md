@@ -42,7 +42,7 @@ source("2- DRASTIC_Index.R")
 DRASTIC_Index("DRASTIC")
 If used RUGI please wait until the process sucessfuly done and you see (your analysis done sucssefully) message at the end of execution process.
 
-At the end of runing process the result in opened excel and shape files are shown for glance evaluate.
+At the end of running process the result in opened excel and shape files are shown for glance evaluate.
 
 -----------------------------------------------------------------------------
 * NOTICE: 
